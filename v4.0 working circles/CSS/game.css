@@ -1,0 +1,22 @@
+* {
+    box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    padding: 0;
+    margin:0;
+    background-color: rgb(67, 67, 67);
+
+}
+body{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+ 
+canvas{
+    border: 3px solid black;
+    border-radius: 15px;
+    background-color: rgb(166, 163, 163);
+}
